@@ -19,6 +19,7 @@ __pycache__/
 # Логи и временные файлы
 *.log
 *.tmp
+.vkbottle/
 
 # Кэш погоды
 weather_cache.json

@@ -1,3 +1,0 @@
-vkbottle
-python-dotenv
-certifi
